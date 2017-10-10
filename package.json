@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/edjaimerosales/wolf-ed/issues"
   },
-  "homepage": "https://github.com/edjaimerosales/wolf-ed#readme"
+  "homepage": "https://github.com/edjaimerosales/wolf-ed#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
