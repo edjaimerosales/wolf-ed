@@ -1,0 +1,19 @@
+{
+  "name": "wolf-ed",
+  "version": "1.0.0",
+  "description": "mi primer web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edjaimerosales/wolf-ed.git"
+  },
+  "author": "ed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edjaimerosales/wolf-ed/issues"
+  },
+  "homepage": "https://github.com/edjaimerosales/wolf-ed#readme"
+}
